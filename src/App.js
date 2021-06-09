@@ -8,7 +8,7 @@ function App() {
       <hr></hr>
       <Friend tripTo = "Iftikhar Olympian Ground" collegeFriend = "Haris" schoolFriend = "Burhan"></Friend>
       <hr></hr>
-      <Friend tripTo = "Behria Theme Park" collegeFriend = "Hassan" schoolFriend = "Anas"></Friend>
+      <Friend tripTo = "Behria Theme Park" collegeFriend = "Hassan Ali" schoolFriend = "Anas"></Friend>
     </div>
   );
 }
